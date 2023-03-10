@@ -13,5 +13,5 @@
 #####  City 
 #####  State 
 #####  Pin code
-The extracted informations will be displayed for you to review, if any changes you can modify it and click on save.
+The extracted informations will be displayed for you to review, if any changes you want to do, you can modify in the same text boxes, once all fianalized it and click on <b>save</b>.
 Once its saved will get listed in a table
